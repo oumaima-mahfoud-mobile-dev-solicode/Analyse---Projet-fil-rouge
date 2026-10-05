@@ -1,4 +1,4 @@
-Tutoriels — Communication API, JavaScript et Interface
+## Tutoriels — Communication API, JavaScript et Interface
 Membres du groupe
 Oumaima Mahfoud
 Tasnime Sahli
@@ -9,7 +9,7 @@ Solaiman Chatt
 
 ---
 
-Tutoriels
+## Tutoriels
 | #  | Tutoriel                                                   |
 | -- | ---------------------------------------------------------- |
 | 7  | Définir la communication (HTTP & API)                  |
