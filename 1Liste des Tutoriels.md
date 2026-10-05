@@ -1,11 +1,11 @@
 ## Tutoriels — Communication API, JavaScript et Interface
-Membres du groupe
-Oumaima Mahfoud
-Tasnime Sahli
-Aziza El Hamyani
-Baderddine Hammam
-Ahmed El Morabiti
-Solaiman Chatt
+- Membres du groupe
+- Oumaima Mahfoud
+- Tasnime Sahli
+- Aziza El Hamyani
+- Baderddine Hammam
+- Ahmed El Morabiti
+- Solaiman Chatt
 
 ---
 
