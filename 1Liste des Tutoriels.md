@@ -1,5 +1,5 @@
 ## Tutoriels — Communication API, JavaScript et Interface
-- Membres du groupe
+# Membres du groupe
 - Oumaima Mahfoud
 - Tasnime Sahli
 - Aziza El Hamyani
@@ -23,5 +23,5 @@
 
 ---
 
-Remarque
+## Remarque
 Le travail sera réalisé sous forme de live coding en groupe sur Discord, avec enregistrement d’écran (screen recording) afin de documenter la réalisation des tutoriels.
